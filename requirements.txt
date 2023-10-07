@@ -1,0 +1,9 @@
+langchain
+openai
+streamlit
+youtube-transcript-api 
+pytube
+pypdf 
+tiktoken
+pdfplumber 
+pinecone-client
